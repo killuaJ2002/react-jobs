@@ -1,0 +1,88 @@
+ [
+      {
+        "id": 1,
+        "title": "React Frontend Developer",
+        "type": "Full-Time",
+        "description": "Develop scalable web applications using React.js, ensuring optimal performance and user experience.",
+        "location": "Bangalore, India",
+        "salary": "₹10,00,000 - ₹14,00,000",
+        "company": {
+          "name": "TechNova Solutions",
+          "description": "A fast-growing SaaS company building tools for modern businesses.",
+          "contactEmail": "hr@technova.in",
+          "contactPhone": "+91-9876543210"
+        }
+      },
+      {
+        "id": 2,
+        "title": "React.js UI Engineer",
+        "type": "Part-Time",
+        "description": "Create clean and responsive interfaces using React and modern CSS frameworks.",
+        "location": "Remote",
+        "salary": "₹5,00,000 - ₹7,00,000",
+        "company": {
+          "name": "PixelCraft Studio",
+          "description": "Design-centric development studio focused on interactive UIs.",
+          "contactEmail": "jobs@pixelcraft.co",
+          "contactPhone": "+91-9001234567"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": "Lead frontend architecture and mentor junior developers in React ecosystem.",
+        "location": "Hyderabad, India",
+        "salary": "₹16,00,000 - ₹22,00,000",
+        "company": {
+          "name": "InnoTech Labs",
+          "description": "Enterprise-grade software solutions provider with focus on performance.",
+          "contactEmail": "careers@innotechlabs.com",
+          "contactPhone": "+91-9988776655"
+        }
+      },
+      {
+        "id": 4,
+        "title": "React Native Engineer",
+        "type": "Contract",
+        "description": "Build cross-platform mobile applications using React Native and integrate APIs.",
+        "location": "Pune, India",
+        "salary": "₹80,000/month",
+        "company": {
+          "name": "AppNest Global",
+          "description": "Mobile-first startup developing productivity and wellness apps.",
+          "contactEmail": "talent@appnestglobal.com",
+          "contactPhone": "+91-9011223344"
+        }
+      },
+      {
+        "id": 5,
+        "title": "React Developer Intern",
+        "type": "Internship",
+        "description": "Assist in developing new features using React, Redux and Git workflows.",
+        "location": "Delhi, India",
+        "salary": "₹15,000/month",
+        "company": {
+          "name": "ByteForge",
+          "description": "Innovative web app firm helping startups go to market faster.",
+          "contactEmail": "interns@byteforge.dev",
+          "contactPhone": "+91-9998877665"
+        }
+      },
+      {
+        "id": 6,
+        "title": "React Full Stack Developer",
+        "type": "Full-Time",
+        "description": "Work across frontend (React) and backend (Node.js, MongoDB) for SaaS products.",
+        "location": "Chennai, India",
+        "salary": "₹12,00,000 - ₹18,00,000",
+        "company": {
+          "name": "CodeNimbus",
+          "description": "Cloud-native SaaS platform for project management and collaboration.",
+          "contactEmail": "careers@codenimbus.io",
+          "contactPhone": "+91-9877665544"
+        }
+      }
+    ]
+  
+  
