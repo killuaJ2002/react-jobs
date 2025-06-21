@@ -1,88 +1,88 @@
- [
-      {
-        "id": 1,
-        "title": "React Frontend Developer",
-        "type": "Full-Time",
-        "description": "Develop scalable web applications using React.js, ensuring optimal performance and user experience.",
-        "location": "Bangalore, India",
-        "salary": "₹10,00,000 - ₹14,00,000",
-        "company": {
-          "name": "TechNova Solutions",
-          "description": "A fast-growing SaaS company building tools for modern businesses.",
-          "contactEmail": "hr@technova.in",
-          "contactPhone": "+91-9876543210"
-        }
-      },
-      {
-        "id": 2,
-        "title": "React.js UI Engineer",
-        "type": "Part-Time",
-        "description": "Create clean and responsive interfaces using React and modern CSS frameworks.",
-        "location": "Remote",
-        "salary": "₹5,00,000 - ₹7,00,000",
-        "company": {
-          "name": "PixelCraft Studio",
-          "description": "Design-centric development studio focused on interactive UIs.",
-          "contactEmail": "jobs@pixelcraft.co",
-          "contactPhone": "+91-9001234567"
-        }
-      },
-      {
-        "id": 3,
-        "title": "Senior React Developer",
-        "type": "Full-Time",
-        "description": "Lead frontend architecture and mentor junior developers in React ecosystem.",
-        "location": "Hyderabad, India",
-        "salary": "₹16,00,000 - ₹22,00,000",
-        "company": {
-          "name": "InnoTech Labs",
-          "description": "Enterprise-grade software solutions provider with focus on performance.",
-          "contactEmail": "careers@innotechlabs.com",
-          "contactPhone": "+91-9988776655"
-        }
-      },
-      {
-        "id": 4,
-        "title": "React Native Engineer",
-        "type": "Contract",
-        "description": "Build cross-platform mobile applications using React Native and integrate APIs.",
-        "location": "Pune, India",
-        "salary": "₹80,000/month",
-        "company": {
-          "name": "AppNest Global",
-          "description": "Mobile-first startup developing productivity and wellness apps.",
-          "contactEmail": "talent@appnestglobal.com",
-          "contactPhone": "+91-9011223344"
-        }
-      },
-      {
-        "id": 5,
-        "title": "React Developer Intern",
-        "type": "Internship",
-        "description": "Assist in developing new features using React, Redux and Git workflows.",
-        "location": "Delhi, India",
-        "salary": "₹15,000/month",
-        "company": {
-          "name": "ByteForge",
-          "description": "Innovative web app firm helping startups go to market faster.",
-          "contactEmail": "interns@byteforge.dev",
-          "contactPhone": "+91-9998877665"
-        }
-      },
-      {
-        "id": 6,
-        "title": "React Full Stack Developer",
-        "type": "Full-Time",
-        "description": "Work across frontend (React) and backend (Node.js, MongoDB) for SaaS products.",
-        "location": "Chennai, India",
-        "salary": "₹12,00,000 - ₹18,00,000",
-        "company": {
-          "name": "CodeNimbus",
-          "description": "Cloud-native SaaS platform for project management and collaboration.",
-          "contactEmail": "careers@codenimbus.io",
-          "contactPhone": "+91-9877665544"
-        }
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "React Frontend Developer",
+      "type": "Full-Time",
+      "description": "Join our dynamic team to develop cutting-edge web applications using React.js and modern frontend technologies. You'll be responsible for building scalable, maintainable user interfaces that serve thousands of users daily. Work closely with UX designers to implement pixel-perfect designs while ensuring optimal performance across all devices. Collaborate with backend developers to integrate RESTful APIs and GraphQL endpoints. Participate in code reviews, write comprehensive unit tests using Jest and React Testing Library, and contribute to our component library. Experience with Redux/Context API for state management, webpack for bundling, and modern CSS frameworks like Tailwind CSS is highly valued. You'll also mentor junior developers and contribute to architectural decisions that shape our frontend infrastructure.",
+      "location": "Bangalore, India",
+      "salary": "₹10L-₹14L",
+      "company": {
+        "name": "TechNova Solutions",
+        "description": "A fast-growing SaaS company building tools for modern businesses.",
+        "contactEmail": "hr@technova.in",
+        "contactPhone": "+91-9876543210"
       }
-    ]
-  
-  
+    },
+    {
+      "id": "2",
+      "title": "React.js UI Engineer",
+      "type": "Part-Time",
+      "description": "We're seeking a talented UI Engineer to create beautiful, intuitive user interfaces using React and cutting-edge CSS technologies. This remote position offers flexibility while working on exciting projects for diverse clients. You'll transform Figma designs into responsive, interactive components using CSS Grid, Flexbox, and CSS-in-JS solutions like Styled Components or Emotion. Collaborate with our design team to implement smooth animations using Framer Motion or React Spring. Ensure cross-browser compatibility and accessibility compliance (WCAG guidelines). Experience with Storybook for component documentation, CSS preprocessors like Sass, and design systems is preferred. You'll work on various projects ranging from e-commerce platforms to data visualization dashboards, giving you exposure to different domains and challenges.",
+      "location": "Remote",
+      "salary": "₹5L-₹7L",
+      "company": {
+        "name": "PixelCraft Studio",
+        "description": "Design-centric development studio focused on interactive UIs.",
+        "contactEmail": "jobs@pixelcraft.co",
+        "contactPhone": "+91-9001234567"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Lead our frontend engineering team in architecting and building enterprise-scale React applications. As a senior developer, you'll design system architecture, establish coding standards, and guide technical decisions that impact our entire development workflow. Mentor a team of 5-8 developers, conduct technical interviews, and drive adoption of best practices including TypeScript, automated testing, and CI/CD pipelines. Work with product managers to break down complex features into manageable development cycles. Optimize application performance using React.memo, useMemo, useCallback, and code splitting techniques. Implement micro-frontend architectures and establish design systems that scale across multiple products. Stay current with React ecosystem trends and evaluate new tools/libraries for potential adoption. Experience with server-side rendering (Next.js), state management solutions (Redux Toolkit, Zustand), and cloud platforms (AWS, Azure) is essential.",
+      "location": "Hyderabad, India",
+      "salary": "₹16L-₹22L",
+      "company": {
+        "name": "InnoTech Labs",
+        "description": "Enterprise-grade software solutions provider with focus on performance.",
+        "contactEmail": "careers@innotechlabs.com",
+        "contactPhone": "+91-9988776655"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Native Engineer",
+      "type": "Remote",
+      "description": "Develop high-performance cross-platform mobile applications using React Native for both iOS and Android platforms. Integrate with native modules when necessary and optimize app performance for smooth user experiences. Implement complex navigation patterns using React Navigation, manage application state with Redux or Context API, and integrate third-party libraries and APIs. Work with native developers to bridge React Native with platform-specific features like camera, geolocation, push notifications, and biometric authentication. Ensure code reusability between platforms while handling platform-specific requirements. Debug and profile applications using Flipper, implement automated testing with Detox, and set up continuous integration for automated builds and deployments. Experience with Expo workflows, CodePush for over-the-air updates, and app store deployment processes is highly desirable. Stay updated with React Native ecosystem and contribute to technical decisions regarding architecture and tooling.",
+      "location": "Pune, India",
+      "salary": "₹8L-₹12L",
+      "company": {
+        "name": "AppNest Global",
+        "description": "Mobile-first startup developing productivity and wellness apps.",
+        "contactEmail": "talent@appnestglobal.com",
+        "contactPhone": "+91-9011223344"
+      }
+    },
+    {
+      "id": "5",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "description": "Kickstart your career in frontend development by working on real-world React projects in a supportive, learning-focused environment. You'll assist senior developers in building new features while gaining hands-on experience with modern development workflows. Learn to implement responsive designs, manage component state with hooks, and integrate with REST APIs. Participate in daily standups, sprint planning, and code reviews to understand professional development practices. Get exposure to version control with Git, collaborative development workflows, and agile methodologies. Work with popular libraries like React Router for navigation, Axios for API calls, and Material-UI or Ant Design for component libraries. Participate in debugging sessions, write unit tests, and learn about application deployment processes. This internship includes mentorship sessions, technical workshops, and the opportunity to contribute to open-source projects. Perfect for recent graduates or students looking to transition into professional React development.",
+      "location": "Delhi, India",
+      "salary": "₹1.8L-₹2.4L",
+      "company": {
+        "name": "ByteForge",
+        "description": "Innovative web app firm helping startups go to market faster.",
+        "contactEmail": "interns@byteforge.dev",
+        "contactPhone": "+91-9998877665"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Take ownership of complete web application development from frontend to backend, working with our modern tech stack including React, Node.js, Express, and MongoDB. Design and implement RESTful APIs, database schemas, and authentication systems while building responsive frontend interfaces. Collaborate with DevOps team to deploy applications on cloud platforms using Docker containers and CI/CD pipelines. Implement real-time features using WebSocket connections, optimize database queries for performance, and ensure application security through proper authentication and authorization mechanisms. Work with popular libraries like Mongoose for database modeling, JWT for authentication, and Socket.io for real-time communication. Contribute to architectural decisions for microservices, API design patterns, and frontend state management strategies. Experience with cloud services (AWS S3, EC2, Lambda), testing frameworks (Jest, Supertest), and monitoring tools (New Relic, Sentry) is preferred. You'll have the opportunity to work on diverse projects including dashboard applications, e-commerce platforms, and collaboration tools.",
+      "location": "Chennai, India",
+      "salary": "₹12L-₹18L",
+      "company": {
+        "name": "CodeNimbus",
+        "description": "Cloud-native SaaS platform for project management and collaboration.",
+        "contactEmail": "careers@codenimbus.io",
+        "contactPhone": "+91-9877665544"
+      }
+    }
+  ]
+}
