@@ -2,7 +2,7 @@
   "jobs": [
     {
       "id": "1",
-      "title": "React Frontend Developer",
+      "title": "React Frontend Dev",
       "type": "Full-Time",
       "description": "Join our dynamic team to develop cutting-edge web applications using React.js and modern frontend technologies. You'll be responsible for building scalable, maintainable user interfaces that serve thousands of users daily. Work closely with UX designers to implement pixel-perfect designs while ensuring optimal performance across all devices. Collaborate with backend developers to integrate RESTful APIs and GraphQL endpoints. Participate in code reviews, write comprehensive unit tests using Jest and React Testing Library, and contribute to our component library. Experience with Redux/Context API for state management, webpack for bundling, and modern CSS frameworks like Tailwind CSS is highly valued. You'll also mentor junior developers and contribute to architectural decisions that shape our frontend infrastructure.",
       "location": "Bangalore, India",
